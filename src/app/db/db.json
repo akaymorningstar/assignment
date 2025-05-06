@@ -1,0 +1,165 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Casie",
+            "lastName": "Ferrie",
+            "address": "91544 Spenser Crossing",
+            "phoneNumber": "492-268-1402",
+            "position": "Clinical Specialist"
+        },
+        {
+            "id": 2,
+            "firstName": "Vinson",
+            "lastName": "Ferrettini",
+            "address": "81434 Autumn Leaf Alley",
+            "phoneNumber": "919-500-1321",
+            "position": "Account Executive"
+        },
+        {
+            "id": 3,
+            "firstName": "Emile",
+            "lastName": "Hanbridge",
+            "address": "2 Dapin Hill",
+            "phoneNumber": "737-382-5390",
+            "position": "Structural Analysis Engineer"
+        },
+        {
+            "id": 4,
+            "firstName": "Carie",
+            "lastName": "Pottes",
+            "address": "9452 7th Trail",
+            "phoneNumber": "898-191-8069",
+            "position": "Programmer Analyst II"
+        },
+        {
+            "id": 5,
+            "firstName": "Ariadne",
+            "lastName": "Buie",
+            "address": "90195 Mesta Terrace",
+            "phoneNumber": "953-358-7076",
+            "position": "Computer Systems Analyst IV"
+        },
+        {
+            "id": 6,
+            "firstName": "Cora",
+            "lastName": "Carlaw",
+            "address": "8 Morningstar Trail",
+            "phoneNumber": "931-451-7820",
+            "position": "Account Executive"
+        },
+        {
+            "id": 7,
+            "firstName": "Micaela",
+            "lastName": "Tinsey",
+            "address": "938 Talisman Park",
+            "phoneNumber": "257-757-4052",
+            "position": "Executive Secretary"
+        },
+        {
+            "id": 8,
+            "firstName": "Rodrique",
+            "lastName": "Angier",
+            "address": "3023 Meadow Ridge Plaza",
+            "phoneNumber": "661-442-0208",
+            "position": "Physical Therapy Assistant"
+        },
+        {
+            "id": 9,
+            "firstName": "Konstanze",
+            "lastName": "Linturn",
+            "address": "0742 Emmet Center",
+            "phoneNumber": "895-923-7007",
+            "position": "Research Assistant II"
+        },
+        {
+            "id": 10,
+            "firstName": "Clemmy",
+            "lastName": "Heistermann",
+            "address": "781 Village Green Road",
+            "phoneNumber": "904-826-1000",
+            "position": "Chemical Engineer"
+        },
+        {
+            "id": 11,
+            "firstName": "Simone",
+            "lastName": "Dixcee",
+            "address": "92423 Merrick Junction",
+            "phoneNumber": "995-338-3688",
+            "position": "Senior Quality Engineer"
+        },
+        {
+            "id": 12,
+            "firstName": "Adair",
+            "lastName": "Volk",
+            "address": "15 Laurel Street",
+            "phoneNumber": "656-996-7916",
+            "position": "Marketing Manager"
+        },
+        {
+            "id": 13,
+            "firstName": "Arel",
+            "lastName": "Keeble",
+            "address": "74144 Sage Avenue",
+            "phoneNumber": "174-246-6039",
+            "position": "Product Engineer"
+        },
+        {
+            "id": 14,
+            "firstName": "Antonin",
+            "lastName": "Isac",
+            "address": "97172 Sommers Place",
+            "phoneNumber": "680-733-2945",
+            "position": "Research Associate"
+        },
+        {
+            "id": 15,
+            "firstName": "Claudina",
+            "lastName": "Wainman",
+            "address": "2 Oakridge Parkway",
+            "phoneNumber": "400-936-9958",
+            "position": "Staff Scientist"
+        },
+        {
+            "id": 16,
+            "firstName": "Gradey",
+            "lastName": "Murrigans",
+            "address": "13654 Darwin Terrace",
+            "phoneNumber": "951-271-8885",
+            "position": "Health Coach IV"
+        },
+        {
+            "id": 17,
+            "firstName": "Eddy",
+            "lastName": "Parkins",
+            "address": "14 Anderson Hill",
+            "phoneNumber": "485-189-6590",
+            "position": "Geological Engineer"
+        },
+        {
+            "id": 18,
+            "firstName": "Hodge",
+            "lastName": "Richen",
+            "address": "7 Lyons Avenue",
+            "phoneNumber": "104-599-4563",
+            "position": "Web Developer IV"
+        },
+        {
+            "id": 19,
+            "firstName": "Gregory",
+            "lastName": "Filochov",
+            "address": "7 Luster Circle",
+            "phoneNumber": "705-548-0139",
+            "position": "Budget/Accounting Analyst I"
+        },
+        {
+            "id": 20,
+            "firstName": "Pippa",
+            "lastName": "Di Franceschi",
+            "address": "04 Eagle Crest Circle",
+            "phoneNumber": "474-190-4830",
+            "position": "Software Consultant"
+        }
+    ]
+}
+  
